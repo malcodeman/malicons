@@ -1,5 +1,12 @@
 export { default as Activity } from "./icons/Activity";
 export { default as Airplay } from "./icons/Airplay";
+export { default as AlertCircle } from "./icons/AlertCircle";
+export { default as AlertOctagon } from "./icons/AlertOctagon";
+export { default as AlertTriangle } from "./icons/AlertTriangle";
+export { default as AlignCenter } from "./icons/AlignCenter";
+export { default as AlignJustify } from "./icons/AlignJustify";
+export { default as AlignLeft } from "./icons/AlignLeft";
+export { default as AlignRight } from "./icons/AlignRight";
 export { default as Minus } from "./icons/Minus";
 export { default as Plus } from "./icons/Plus";
 export { default as X } from "./icons/X";
